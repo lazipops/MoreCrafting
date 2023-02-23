@@ -10,4 +10,8 @@ Adds more crafting recipes for vanilla minecraft. So far only the saddle has bee
 2. Go to .minecraft\saves and then whatever world you would like to install the mod on
 3. Click datapacks and drop the more_crafting folder into the datapacks folder
 
+## How to craft a saddle in game
+
+![alt text](https://github.com/lazipops/MoreCrafting/blob/main/howto_craft_saddle.png?raw=true)
+
 <sub>If you have any problems at all, please contact me via discord at Lazipops#3033</sub>
